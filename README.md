@@ -85,9 +85,21 @@ images accessible, but proved today that this doesn't scale. Hosts for simple
 domain websites aren't much use either, so need to have a look at something
 like AWS and see whether there's a *"nearly-free"* tier.
 
-
 **Link to work:** [Markdown Previewer](https://codepen.io/domwakeling/full/RvVExz) :
 [Drum Machine](https://codepen.io/domwakeling/full/bzRNjp)
+
+## Day 9: February 4, 2019
+
+**Today's Progress:** Implementing a GCSE-level Python challenge using
+Pythonista on iPad.
+
+**Thoughts:** Had hoped that there would be an interface in Pythonista
+to access files exposed through the Files app. There **is** an ability
+to do so at the app level, but doesn't appear to be an interface at
+script level ... so you can open (and presumably copy) external files
+in the app's "finder" but not call them inside a Python script. Guess
+you'll be able to copy files into the app's sandbox though so that will
+be good enough.
 
 ---
 
