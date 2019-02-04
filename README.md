@@ -65,16 +65,37 @@ this challenge under the old syllabus, but re-wrote from scratch. Used Redux
 to store a common state and pass information between the two containers
 (first time I've written something in Redux for myself).
 
+Also started working on the next project, Drum Machine, which is new. Got a
+working machine, although had some problems with hosting audio (trying to use
+Google Drive as a host for resources, and it hasn't worked very well for audio)
+so ended up using some sound samples that are used in the example project,
+which I'm not delighted about. Also failing two of the tests, which *may* be
+a latency issue, but I'm getting error messages about an exception being
+raised from a Promise so have to look at that again.
+
 **Thoughts:** Hit some problems with Redux, hadn't appreciated that (for
 certain parts of Redux/React) you need to have written an element/method
 before calling it. Had me stumped for half an hour whilst I worked through
 issues, not helped because I was making mistakes in the Redux code since it 
 was my first attempt!
 
-**Link to work:** [Markdown Previewer](https://codepen.io/domwakeling/full/RvVExz)
+Need to investigate a better way to host resources - I've been using Google
+Drive and a hack courtesy of [gdurl.com](https://gdurl.com) to be able to make
+images accessible, but proved today that this doesn't scale. Hosts for simple
+domain websites aren't much use either, so need to have a look at something
+like AWS and see whether there's a *"nearly-free"* tier.
+
+
+**Link to work:** [Markdown Previewer](https://codepen.io/domwakeling/full/RvVExz) :
+[Drum Machine](https://codepen.io/domwakeling/full/bzRNjp)
 
 ---
 
 **Footnotes**
 
-<a name="myfootnote1">1</a>: For when I forget: use Grab (SHIFT + CMD + 4) to capture image from the portfolio view; crop in PhotoShop (will end at 371x292); set guides at 0, 5, 10 & 15px from each edge; path to the (0,10) guide marks, then 5px beziers; path to selection; invert selection; erase corners; delete path; save as PNG; load to Google Drive; make shareable and use [gdurl](https://gdurl.com) to get a link. Simples ...
+<a name="myfootnote1">1</a>: For when I forget: use Grab (SHIFT + CMD + 4) to
+capture image from the portfolio view; crop in PhotoShop (will end at 371x292);
+set guides at 0, 5, 10 & 15px from each edge; path to the (0,10) guide marks,
+then 5px beziers; path to selection; invert selection; erase corners; delete
+path; save as PNG; load to Google Drive; make shareable and use
+[gdurl.com](https://gdurl.com) to get a link. Simples ...
