@@ -101,6 +101,12 @@ in the app's "finder" but not call them inside a Python script. Guess
 you'll be able to copy files into the app's sandbox though so that will
 be good enough.
 
+## Day 10: February 5, 2019
+
+**Today's Progress:** Finished implementing the Python challenge in 
+Pythonista using console as interface. Started implementing a graphical
+interface using Pythonista's *'ui'* module
+
 ---
 
 **Footnotes**
