@@ -105,7 +105,14 @@ be good enough.
 
 **Today's Progress:** Finished implementing the Python challenge in 
 Pythonista using console as interface. Started implementing a graphical
-interface using Pythonista's *'ui'* module
+interface using Pythonista's *'ui'* module.
+
+## Day 11: February 6, 2019
+
+**Today's Progress:** Continued working on adding a UI to Python challenge.
+Splitting some of the code (particularly parts of the UI) into separate
+files using classes to encapsulate logic and simplify/improve legibility of
+the actual app code.
 
 ---
 
