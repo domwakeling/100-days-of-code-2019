@@ -114,6 +114,13 @@ Splitting some of the code (particularly parts of the UI) into separate
 files using classes to encapsulate logic and simplify/improve legibility of
 the actual app code.
 
+## Day 12: February 7, 2019
+
+**Today's Progress:** Still working on the UI version of the Python
+challenge. Remembered how to import from sub-folders to keep the working
+folder tidier! Also refactored some of the code from the console-interface
+version so that the UI version is simpler.
+
 ---
 
 **Footnotes**
