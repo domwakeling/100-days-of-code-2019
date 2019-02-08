@@ -121,6 +121,11 @@ challenge. Remembered how to import from sub-folders to keep the working
 folder tidier! Also refactored some of the code from the console-interface
 version so that the UI version is simpler.
 
+## Day 13: February 8, 2019
+
+**Today's Progress:** Finally finished the UI version of the Python challenge..
+On to something fresh tomorrow ...
+
 ---
 
 **Footnotes**
