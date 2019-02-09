@@ -126,6 +126,19 @@ version so that the UI version is simpler.
 **Today's Progress:** Finally finished the UI version of the Python challenge..
 On to something fresh tomorrow ...
 
+## Day 14: February 9, 2019
+
+**Today's Progress:** Back to the [freeCodeCamp](https:freeCodeCamp.org)
+Drum Machine project; fixed the error that was causing it to fail tests (a
+promise was being interrupted when the test suite ran, solved by calling my
+playAudio() method direct when a click was registered, and binding that method
+to the keypad.
+
+Also watching videos from Code Realm on deploying a project, including an 
+integrated CI/CD approach.
+
+**Link to Work:** [Drum Machine](https://codepen.io/domwakeling/full/bzRNjp)
+
 ---
 
 **Footnotes**
