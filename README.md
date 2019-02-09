@@ -134,6 +134,9 @@ promise was being interrupted when the test suite ran, solved by calling my
 playAudio() method direct when a click was registered, and binding that method
 to the keypad.
 
+Moved on to the calculator project (definitely built this one before!) - have
+decided to re-implement in React from scratch ...
+
 Also watching videos from Code Realm on deploying a project, including an 
 integrated CI/CD approach.
 
