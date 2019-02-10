@@ -128,7 +128,7 @@ On to something fresh tomorrow ...
 
 ## Day 14: February 9, 2019
 
-**Today's Progress:** Back to the [freeCodeCamp](https:freeCodeCamp.org)
+**Today's Progress:** Back to the [freeCodeCamp](https:/freeCodeCamp.org)
 Drum Machine project; fixed the error that was causing it to fail tests (a
 promise was being interrupted when the test suite ran, solved by calling my
 playAudio() method direct when a click was registered, and binding that method
@@ -144,10 +144,16 @@ integrated CI/CD approach.
 
 ## Day 15: February 10, 2019
 
-**Today's Progress:** Continued working on the Calculator project (I've done this
+**Today's Progress:** Finished working on the Calculator project (I've done this
 before in multiple languages, and every time it's surprising how complicated it is
-to implement something that we take for granted). Also updated Bowles website with
-some content and style tweaks.
+to implement something that we take for granted).
+
+Updated Bowles website with some content and style tweaks.
+
+Working through the [freeCodeCamp](http://freecodecamp.org) npm and Node/Express
+curriculum.
+
+**Link to Work:** [Calculator](https://codepen.io/domwakeling/full/qgxgbq)
 
 ---
 
