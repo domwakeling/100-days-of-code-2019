@@ -134,13 +134,20 @@ promise was being interrupted when the test suite ran, solved by calling my
 playAudio() method direct when a click was registered, and binding that method
 to the keypad.
 
-Moved on to the calculator project (definitely built this one before!) - have
+Moved on to the Calculator project (definitely built this one before!) - have
 decided to re-implement in React from scratch ...
 
 Also watching videos from Code Realm on deploying a project, including an 
 integrated CI/CD approach.
 
 **Link to Work:** [Drum Machine](https://codepen.io/domwakeling/full/bzRNjp)
+
+## Day 15: February 10, 2019
+
+**Today's Progress:** Continued working on the Calculator project (I've done this
+before in multiple languages, and every time it's surprising how complicated it is
+to implement something that we take for granted). Also updated Bowles website with
+some content and style tweaks.
 
 ---
 
