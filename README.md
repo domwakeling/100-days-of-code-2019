@@ -149,6 +149,10 @@ before in multiple languages, and every time it's surprising how complicated it 
 to implement something that we take for granted). Also updated Bowles website with
 some content and style tweaks.
 
+## Day 16: February 11, 2019
+
+**Today's Progress":** Working on Pomodoro project.
+
 ---
 
 **Footnotes**
