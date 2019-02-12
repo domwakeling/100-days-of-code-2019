@@ -161,9 +161,12 @@ curriculum.
 
 ## Day 17: February 12, 2019
 
-**Today's Progress:** Completed Pomodoro project.
+**Today's Progress:** Completed Pomodoro project (and the Front End certificate).
+Started and completed Bar Chart project (using D3) for the Data Visualisation
+Certificate.
 
-**Link to Works:** [Pomodoro Timer](https://codepen.io/domwakeling/full/xMjZLM)
+**Link to Works:** [Pomodoro Timer](https://codepen.io/domwakeling/full/xMjZLM) :
+[Bar Chart Visualisation](https://codepen.io/domwakeling/full/VgdeWN)
 
 ---
 
