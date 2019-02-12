@@ -159,6 +159,12 @@ curriculum.
 
 **Today's Progress":** Working on Pomodoro project.
 
+## Day 17: February 12, 2019
+
+**Today's Progress:** Completed Pomodoro project.
+
+**Link to Works:** [Pomodoro Timer](https://codepen.io/domwakeling/full/xMjZLM)
+
 ---
 
 **Footnotes**
