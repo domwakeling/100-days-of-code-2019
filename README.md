@@ -168,6 +168,12 @@ Certificate.
 **Link to Works:** [Pomodoro Timer](https://codepen.io/domwakeling/full/xMjZLM) :
 [Bar Chart Visualisation](https://codepen.io/domwakeling/full/VgdeWN)
 
+## Day 18: February 13, 2019
+
+**Today's Progress:** Experimenting with [Scriptable](https://scriptable.app),
+working on [CodeWars](https://www.codewars.com) challenges, and watching first
+part of a [freeCodeCamp](https://freeCodeCamp.org) video series on Node.
+
 ---
 
 **Footnotes**
