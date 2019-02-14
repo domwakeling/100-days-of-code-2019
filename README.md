@@ -174,6 +174,10 @@ Certificate.
 working on [CodeWars](https://www.codewars.com) challenges, and watching first
 part of a [freeCodeCamp](https://freeCodeCamp.org) video series on Node.
 
+## Day 19: February 14, 2019
+
+**Today's Progress:** Working on [CodeWars](https://www.codewars.com) challenges.
+
 ---
 
 **Footnotes**
