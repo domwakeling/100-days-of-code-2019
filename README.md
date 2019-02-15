@@ -178,6 +178,10 @@ part of a [freeCodeCamp](https://freeCodeCamp.org) video series on Node.
 
 **Today's Progress:** Working on [CodeWars](https://www.codewars.com) challenges.
 
+## Day 20: February 15, 2019
+
+**Today's Progress:** Working on [CodeWars](https://www.codewars.com) challenges.
+
 ---
 
 **Footnotes**
