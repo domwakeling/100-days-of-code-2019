@@ -182,6 +182,11 @@ part of a [freeCodeCamp](https://freeCodeCamp.org) video series on Node.
 
 **Today's Progress:** Working on [CodeWars](https://www.codewars.com) challenges.
 
+## Day 21: February 16, 2019
+
+**Today's Progress:** Working on [CodeWars](https://www.codewars.com) challenges.
+Reading about how to write Google Chrome extensions.
+
 ---
 
 **Footnotes**
