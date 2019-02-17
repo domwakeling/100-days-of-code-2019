@@ -191,7 +191,7 @@ Reading about how to write Google Chrome extensions. Working through
 ## Day 22: February 17, 2019
 
 **Today's Progress:** Working on [CodeWars](https://www.codewars.com) challenges
-(aiming for '3 kyu' in Javascript, getting close).
+(aiming for, and achieving, *'3kyu'* in Javascript).
 
 ---
 
