@@ -185,7 +185,13 @@ part of a [freeCodeCamp](https://freeCodeCamp.org) video series on Node.
 ## Day 21: February 16, 2019
 
 **Today's Progress:** Working on [CodeWars](https://www.codewars.com) challenges.
-Reading about how to write Google Chrome extensions.
+Reading about how to write Google Chrome extensions. Working through
+[freeCodeCamp](https://freecodecamp.org) QA/Testing curriculum.
+
+## Day 22: February 17, 2019
+
+**Today's Progress:** Working on [CodeWars](https://www.codewars.com) challenges
+(aiming for '3 kyu' in Javascript, getting close).
 
 ---
 
