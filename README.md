@@ -198,6 +198,17 @@ Reading about how to write Google Chrome extensions. Working through
 **Today's Progress:** More [CodeWars](https://www.codewars.com) challenges,
 starting to focus on Python rather than JavaScript.
 
+## Day 24: February 19, 2019
+
+**Today's Progress:** More [CodeWars](https://www.codewars.com) challenges,
+now entirely in Python.
+
+**Thoughts:** Dates in Python are a bit of a pain, working with the `datetime`
+module. Also, map/reduce etc are methods that **take** an array (or other list)
+rather than being methods **of** such a list - which also means that in order to
+generate a list **out of** one of those methods, you have to wrap it in a `list` call.
+All feels quite foreign coming from a Javascript background.
+
 ---
 
 **Footnotes**
