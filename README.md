@@ -209,6 +209,10 @@ rather than being methods **of** such a list - which also means that in order to
 generate a list **out of** one of those methods, you have to wrap it in a `list` call.
 All feels quite foreign coming from a Javascript background.
 
+## Day 25: February 20, 2019
+
+**Today's Progress:** More [CodeWars](https://www.codewars.com) challenges.
+
 ---
 
 **Footnotes**
