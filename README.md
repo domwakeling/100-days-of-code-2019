@@ -213,6 +213,10 @@ All feels quite foreign coming from a Javascript background.
 
 **Today's Progress:** More [CodeWars](https://www.codewars.com) challenges.
 
+## Day 26: February 21, 2019
+
+**Today's Progress:** More [CodeWars](https://www.codewars.com) challenges.
+
 ---
 
 **Footnotes**
