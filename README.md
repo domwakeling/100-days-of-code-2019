@@ -217,6 +217,18 @@ All feels quite foreign coming from a Javascript background.
 
 **Today's Progress:** More [CodeWars](https://www.codewars.com) challenges.
 
+## Day 27: February 22, 2019
+
+**Today's Progress:** More [CodeWars](https://www.codewars.com) challenges, including
+finishing the "Papers Please" *3kyu* challenge and an old *8kyu* Wilson Primes
+challenge that always timed out or errored on recursion depth before.
+
+**Thoughts:** A couple random items to remember:
+
+* Python `re.match` **always** starts at head of string; use `re.search` instead
+* Python has a built-in `math.factorial` method which is more efficient than anything I can write
+
+
 ---
 
 **Footnotes**
