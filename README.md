@@ -228,6 +228,10 @@ challenge that always timed out or errored on recursion depth before.
 * Python `re.match` **always** starts at head of string; use `re.search` instead
 * Python has a built-in `math.factorial` method which is more efficient than anything I can write
 
+## Day 28: February 23, 2019
+
+**Today's Progress:** More [CodeWars](https://codewars.com) challenges, now circa 48%
+through *4kyu* in Python.
 
 ---
 
