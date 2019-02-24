@@ -233,6 +233,16 @@ challenge that always timed out or errored on recursion depth before.
 **Today's Progress:** More [CodeWars](https://codewars.com) challenges, now circa 48%
 through *4kyu* in Python.
 
+## Day 29: February 24, 2019
+
+**Today's Progress:** More [CodeWars](https://www.codewars.com) challenges, now 48% through
+*3kyu* overall, 49% through *4kyu* Python and 9% through *3kyu* JavaScript.
+
+Having run up against Monads in a CodeWars challenge and just not understanding it,
+have decided to go back to [Professor Frisby](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
+and re-start. Also seems like there's quite a lot more content than the last time I looked
+at it (I think it was only up to Ch6, now up to Ch12 which includes Monads and Functors).
+
 ---
 
 **Footnotes**
