@@ -243,6 +243,12 @@ have decided to go back to [Professor Frisby](https://mostly-adequate.gitbooks.i
 and re-start. Also seems like there's quite a lot more content than the last time I looked
 at it (I think it was only up to Ch6, now up to Ch12 which includes Monads and Functors).
 
+## Day 30: February 25, 2019
+
+**Today's Progress:** Continued reading [Professor Frisby's Mostly Adequate Guide to 
+Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/), including
+working through examples/challenges. Through to end of Ch6.
+
 ---
 
 **Footnotes**
