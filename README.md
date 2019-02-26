@@ -249,6 +249,15 @@ at it (I think it was only up to Ch6, now up to Ch12 which includes Monads and F
 Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/), including
 working through examples/challenges. Through to end of Ch6.
 
+## Day 31: February 26, 2019
+
+**Today's Progress:** Continued reading [Professor Frisby's Mostly Adequate Guide to 
+Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/). Into Ch7 although
+likely to need to recap again!
+
+Also more [CodeWars](https://www.codewars.com) challenges, now 53% through *3kyu* overall,
+69% through *4kyu* Python and 9% through *3kyu* JavaScript.
+
 ---
 
 **Footnotes**
