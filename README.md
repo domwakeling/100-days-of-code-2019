@@ -256,7 +256,12 @@ Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guid
 likely to need to recap again!
 
 Also more [CodeWars](https://www.codewars.com) challenges, now 53% through *3kyu* overall,
-69% through *4kyu* Python and 9% through *3kyu* JavaScript.
+59% through *4kyu* Python and 9% through *3kyu* JavaScript.
+
+## Day 32: February 27, 2019
+
+**Today's Progress:** More [CodeWars](https://www.codewars.com) challenges, now 54%
+through *3kyu* overall, 65% through *4kyu* Python and 9% through *3kyu* JavaScript.
 
 ---
 
