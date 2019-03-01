@@ -268,6 +268,11 @@ through *3kyu* overall, 65% through *4kyu* Python and 9% through *3kyu* JavaScri
 **Today's Progress:** More [CodeWars](https://www.codewars.com) challenges, now 58%
 through *3kyu* overall, 74% through *4kyu* Python and 9% through *3kyu* JavaScript.
 
+## Day 34: March 1, 2019
+
+**Today's Progress:** More [CodeWars](https://www.codewars.com) challenges, now 64%
+through *3kyu* overall, 91.7% through *4kyu* Python and 9% through *3kyu* JavaScript.
+
 ---
 
 **Footnotes**
