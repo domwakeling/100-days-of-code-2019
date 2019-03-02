@@ -278,6 +278,10 @@ through *3kyu* overall, 91.7% through *4kyu* Python and 9% through *3kyu* JavaSc
 **Today's Progress:** More [CodeWars](https://www.codewars.com) challenges, achieved *3kyu*
 in Python (now 67% through *3kyu* overall).
 
+Also experimenting with text boxes in Excel using VBA (automating the addition of boxes
+to a grid, trialling whether the Excel VBA grid is consistent across different versions
+and platforms/OS's)
+
 ---
 
 **Footnotes**
