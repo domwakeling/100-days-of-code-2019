@@ -282,6 +282,11 @@ Also experimenting with text boxes in Excel using VBA (automating the addition o
 to a grid, trialling whether the Excel VBA grid is consistent across different versions
 and platforms/OS's)
 
+## Day 36: March 3, 2019
+
+**Today's Progress:** Working through MongoDB and Mongoose challenges in the 
+[freeCodeCamp](https://freecodecamp.org) curriculum.
+
 ---
 
 **Footnotes**
