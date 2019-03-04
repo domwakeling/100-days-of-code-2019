@@ -287,6 +287,14 @@ and platforms/OS's)
 **Today's Progress:** Working through MongoDB and Mongoose challenges in the 
 [freeCodeCamp](https://freecodecamp.org) curriculum.
 
+## Day 37: March 4, 2019
+
+**Today's Progress:** Updates to [LSERSA website](http://www.lsersa.org).
+
+More [CodeWars](https://www.codewars.com) challenges.
+
+Working out how to use UserForms in Excel VBA.
+    
 ---
 
 **Footnotes**
