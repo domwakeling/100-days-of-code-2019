@@ -294,6 +294,11 @@ and platforms/OS's)
 More [CodeWars](https://www.codewars.com) challenges.
 
 Working out how to use UserForms in Excel VBA.
+
+## Day 38: March 5, 2019
+
+**Today's Progress:** More [CodeWars](https://www.codewars.com) challenges, and
+more playing with Excel VBA.
     
 ---
 
