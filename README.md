@@ -299,7 +299,11 @@ Working out how to use UserForms in Excel VBA.
 
 **Today's Progress:** More [CodeWars](https://www.codewars.com) challenges, and
 more playing with Excel VBA.
-    
+
+## Day 39: March 6, 2019
+
+**Today's Progress:** More [CodeWars](https://www.codewars.com) challenges.
+
 ---
 
 **Footnotes**
