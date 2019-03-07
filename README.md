@@ -304,6 +304,10 @@ more playing with Excel VBA.
 
 **Today's Progress:** More [CodeWars](https://www.codewars.com) challenges.
 
+## Day 40: March 7, 2019
+
+**Today's Progress:** Researching maze-solving algorithms.
+
 ---
 
 **Footnotes**
