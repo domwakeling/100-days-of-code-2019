@@ -308,6 +308,11 @@ more playing with Excel VBA.
 
 **Today's Progress:** Researching maze-solving algorithms.
 
+## Day 41: March 8, 2019
+
+**Today's Progress:** Implementing maze-solving algorithm (using a depth-first
+algorithm) plus some other [CodeWars](https://www.codewars.com) kata.
+
 ---
 
 **Footnotes**
