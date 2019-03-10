@@ -317,6 +317,11 @@ algorithm) plus some other [CodeWars](https://www.codewars.com) kata.
 
 **Today's Progress:** More [CodeWars](https://www,codewars.com) challenges.
 
+## Day 43: March 10, 2019
+
+**Today's Progress:** More [CodeWars](https://www.codewars.com) challenges,
+and more experimenting with Excel VBA.
+
 ---
 
 **Footnotes**
