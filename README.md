@@ -342,6 +342,12 @@ and more experimenting with Excel VBA.
 
 **Today's Progress:** More [CodeWars](https://www.codewars.com) challenges.
 
+## Day 49: March 16, 2019
+
+**Today's Progress:** More [CodeWars](https://www.codewars.com) challenges. Update
+on progress, 76.6% through *3kyu* overall, 15.1% through *3kyu* for Javascript. So
+about 9% progress through *3kyu* in the last fortnight ... very slow going.
+
 ---
 
 **Footnotes**
