@@ -348,6 +348,11 @@ and more experimenting with Excel VBA.
 on progress, 76.6% through *3kyu* overall, 15.1% through *3kyu* for Javascript. So
 about 9% progress through *3kyu* in the last fortnight ... very slow going.
 
+## Day 50: March 17, 2019
+
+**Today's Progress:** A little [CodeWars](https://www.codewars.com) and a lot of
+Excel VBA.
+
 ---
 
 **Footnotes**
