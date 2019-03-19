@@ -353,6 +353,10 @@ about 9% progress through *3kyu* in the last fortnight ... very slow going.
 **Today's Progress:** A little [CodeWars](https://www.codewars.com) and a lot of
 Excel VBA.
 
+## Day 51: March 19, 2019
+
+**Today's Progress:** Some more [CodeWars](https://www.codewars.com) after a day out ...
+
 ---
 
 **Footnotes**
