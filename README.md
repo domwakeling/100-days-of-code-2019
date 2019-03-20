@@ -357,6 +357,11 @@ Excel VBA.
 
 **Today's Progress:** Some more [CodeWars](https://www.codewars.com) after a day out ...
 
+## Day 52: March 20, 2019
+
+**Today's Progress:** Some painfully slow [CodeWars](https://www.codewars.com) including
+irritating problems with arrays passed by reference rather than value ...
+
 ---
 
 **Footnotes**
