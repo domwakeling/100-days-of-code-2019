@@ -370,6 +370,12 @@ irritating problems with arrays passed by reference rather than value ...
 
 **Today's Progress:** Some more [CodeWars](https://www.codewars.com).
 
+## Day 55: March 24, 2019
+
+**Today's Progress:** Excel VBA. Lesson - try to avoid writing a UI in Excel that uses
+Userforms (modal dialogue boxes) - they're a pain, and almost impossible to write in the
+Mac version.
+
 ---
 
 **Footnotes**
