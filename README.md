@@ -376,6 +376,10 @@ irritating problems with arrays passed by reference rather than value ...
 Userforms (modal dialogue boxes) - they're a pain, and almost impossible to write in the
 Mac version.
 
+## Day 56: March 25, 2019
+
+**Today's Progress:** Excel VBA (all the way)
+
 ---
 
 **Footnotes**
