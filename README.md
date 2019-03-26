@@ -378,7 +378,11 @@ Mac version.
 
 ## Day 56: March 25, 2019
 
-**Today's Progress:** Excel VBA (all the way)
+**Today's Progress:** Excel VBA (all the way).
+
+## Day 57: March 26, 2019
+
+**Today's Progress:** Excel VBA again.
 
 ---
 
