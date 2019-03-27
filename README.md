@@ -384,6 +384,10 @@ Mac version.
 
 **Today's Progress:** Excel VBA again.
 
+## Day 58: March 27, 2019
+
+**Today's Progress:** Excel VBA again.
+
 ---
 
 **Footnotes**
