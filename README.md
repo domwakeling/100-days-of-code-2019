@@ -388,6 +388,10 @@ Mac version.
 
 **Today's Progress:** Excel VBA again.
 
+## Day 59: March 28, 2019
+
+**Today's Progress:** More [CodeWars](https://www.codewars.com).
+
 ---
 
 **Footnotes**
