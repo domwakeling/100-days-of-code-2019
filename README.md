@@ -392,6 +392,19 @@ Mac version.
 
 **Today's Progress:** More [CodeWars](https://www.codewars.com).
 
+## Day 60: April 7, 2019
+
+** Today's Progress:** So a week off thanks to some work issues and travelling 
+to France. Back on the wagon again today though - spent an hour with my daughter
+experimenting with HTML and CSS, and half an hour reading through some of the Apple
+Human Interface Guidelines (considering dipping back into iOS again).
+
+## Day 61: April 8, 2019
+
+**Today's Progress:** Re-visiting an old iOS app (for Gin Rummy score-keeping)
+and considering whether it's worth trying to fix the issues (and bugs) with it, or
+instead to re-start from scratch.
+
 ---
 
 **Footnotes**
