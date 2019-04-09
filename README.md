@@ -405,6 +405,10 @@ Human Interface Guidelines (considering dipping back into iOS again).
 and considering whether it's worth trying to fix the issues (and bugs) with it, or
 instead to re-start from scratch.
 
+## Day 62: April 9, 2019
+
+**Today's Progress:** Working on LSERSA and Bowles websites.
+
 ---
 
 **Footnotes**
