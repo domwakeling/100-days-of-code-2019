@@ -409,6 +409,10 @@ instead to re-start from scratch.
 
 **Today's Progress:** Working on LSERSA and Bowles websites.
 
+## Day 63: April 10, 2019
+
+**Today's Progress:** LSERSA website updates.
+
 ---
 
 **Footnotes**
