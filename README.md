@@ -413,6 +413,14 @@ instead to re-start from scratch.
 
 **Today's Progress:** LSERSA website updates.
 
+## Day 64: April 17, 2019
+
+**Today's Progress:** Excel VBA work.
+
+## Day 65: April 19, 2019
+
+**Today's Progress:** LSERSA website updates and Excel VBA work.
+
 ---
 
 **Footnotes**
