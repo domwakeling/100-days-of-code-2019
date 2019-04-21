@@ -417,9 +417,13 @@ instead to re-start from scratch.
 
 **Today's Progress:** Excel VBA work.
 
-## Day 65: April 19p, 2019
+## Day 65: April 19, 2019
 
 **Today's Progress:** LSERSA website updates and Excel VBA work.
+
+## Day 66: April 21, 2019
+
+**Today's Progress:** Experimenting with SVG animations.
 
 ---
 
