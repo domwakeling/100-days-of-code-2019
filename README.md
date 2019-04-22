@@ -425,6 +425,13 @@ instead to re-start from scratch.
 
 **Today's Progress:** Experimenting with SVG animations.
 
+## Day 67: April 22, 2019
+
+**Today's Progress:** Continuing to experiment with SVG animations, starting to
+build a watchface simulation.
+
+**Link to work:** [CodePen](https://codepen.io/domwakeling/full/GLGdEY)
+
 ---
 
 **Footnotes**
