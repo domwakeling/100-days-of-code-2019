@@ -432,6 +432,10 @@ build a watchface simulation.
 
 **Link to work:** [CodePen](https://codepen.io/domwakeling/full/GLGdEY)
 
+## Day 68: April 23, 2019
+
+**Today's Progress:** Continuing experiment with SVG animations and scaling.
+
 ---
 
 **Footnotes**
