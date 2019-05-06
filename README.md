@@ -440,6 +440,18 @@ build a watchface simulation.
 
 **Today's Progress:** Minor update to SCG animations, working on Excel VBA code.
 
+## Day 70: April 29, 2019
+
+**Today's Progress:** Updates to Bowles website
+
+## Day 71: 3 May, 2019
+
+**Today's Progress:** Updates to LSERSA website.
+
+## Day 72: 5 May, 2019
+
+**Today's Progress:** Several updates to Bowles website.
+
 ---
 
 **Footnotes**
