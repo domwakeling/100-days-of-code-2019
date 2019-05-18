@@ -477,10 +477,14 @@ using Google's "Lighthouse" tools.
 
 **Today's Progress:** Further accessibility updates to Bowles website.
 
-
 ## Day 79: 17 May, 2019
 
 **Today's Progress:** Started to convert Bowles website to Gatsby v2.
+
+## Day 80: 18 May, 2019
+
+**Today's Progress:** Finished prepping Bowles website for Gatsby v2 and
+published.
 
 ---
 
