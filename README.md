@@ -452,6 +452,36 @@ build a watchface simulation.
 
 **Today's Progress:** Several updates to Bowles website.
 
+## Day 73: 6 May, 2019
+
+**Today's Progress:** Add results to Bowles website, fixes to LSERSA site.
+
+## Day 74: 11 May, 2019
+
+**Today's Progress:** Update results on Bowles website for SRSA and ERSA.
+
+## Day 75: 12 May, 2019
+
+**Today's Progress:** Added results for Kent Schools to Bowles website.
+
+## Day 76: 13 May, 2019
+
+**Today's Progress:** Updates to Bowles website for Kent Schools and typos.
+
+## Day 77: 15 May, 2019
+
+**Today's Progress:** Carried out accessibility audit for Bowles website
+using Google's "Lighthouse" tools.
+
+## Day 78: 16 May, 2019
+
+**Today's Progress:** Further accessibility updates to Bowles website.
+
+
+## Day 79: 17 May, 2019
+
+**Today's Progress:** Started to convert Bowles website to Gatsby v2.
+
 ---
 
 **Footnotes**
