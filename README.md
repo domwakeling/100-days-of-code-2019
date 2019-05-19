@@ -486,6 +486,11 @@ using Google's "Lighthouse" tools.
 **Today's Progress:** Finished prepping Bowles website for Gatsby v2 and
 published.
 
+## Day 81: 19 May, 2019
+
+**Today's Progress:** Worked out how to auto-generate monthly new-summary
+pages for Bowles website (finally!)
+
 ---
 
 **Footnotes**
