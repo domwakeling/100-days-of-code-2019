@@ -491,6 +491,15 @@ published.
 **Today's Progress:** Worked out how to auto-generate monthly new-summary
 pages for Bowles website (finally!)
 
+## Day 82: 21 May, 2019
+
+**Today's Progress:** Looking at bug with calendar component on Bowles website
+(gotta love bugs)
+
+## Day 83: 22 May, 2019
+
+**Today's Progress:** Fixed big with calendar component on Bowles website.
+
 ---
 
 **Footnotes**
