@@ -498,7 +498,19 @@ pages for Bowles website (finally!)
 
 ## Day 83: 22 May, 2019
 
-**Today's Progress:** Fixed big with calendar component on Bowles website.
+**Today's Progress:** Fixed big (maybe?!) with calendar component on Bowles website.
+
+## Day ??: 27 May May, 2019
+
+**Today's Progress:** Start new branch in League-For-Good to update the use
+of `material-ui` (technically moving from `material-ui` v0.20 to `@material-ui/core`
+v4.0.1).
+
+## Day ??: 28 May May, 2019
+
+**Today's Progress:** Continue working on League-For-Good update; identify and start
+fix of issue with themes.
+
 
 ---
 
