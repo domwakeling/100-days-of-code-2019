@@ -538,6 +538,11 @@ component work (easy), started looking at the 'dashboard' component. Going down
 a rabbit hole, have *possibly* fixed the common table components but can't be
 sure because other elements are still breaking.
 
+## Day 91: 3 June, 2019
+
+**Today's Progress:** Continue working on League-For-Good Update (still fixing
+the 'Dashboard' and at quite an early stage) plus update to LSERSA website.
+
 ---
 
 **Footnotes**
