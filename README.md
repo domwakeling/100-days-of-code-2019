@@ -505,17 +505,38 @@ pages for Bowles website (finally!)
 **Today's Progress:** Re-familiarising with League-For-Good since it now appears
 to have some traction again.
 
-## Day 85: 27 May May, 2019
+## Day 85: 27 May, 2019
 
 **Today's Progress:** Start new branch in League-For-Good to update the use
 of `material-ui` (technically moving from `material-ui` v0.20 to `@material-ui/core`
 v4.0.1).
 
-## Day 86: 28 May May, 2019
+## Day 86: 28 May, 2019
 
 **Today's Progress:** Continue working on League-For-Good update; identify and start
 fix of issue with themes.
 
+## Day 87: 29 May, 2019
+
+**Today's Progress:** Continue working on League-For-Good update; fixed site-wide 
+font issue, continue fixing colour/theme issues.
+
+## Day 88: 30 May, 2019
+
+**Today's Progress:** Continue working on League-For-Good update; got the AppBar
+(top bar, containing the open/close drawer toggle and theme picker) working.
+
+## Day 89: 1 June, 2019
+
+**Today's Progress:** Continue working on League-For-Good update; got the
+Menu (Drawer to left of screen) working.
+
+## Day 90: 2 June, 2019
+
+**Today's Progress:** Continue working on League-For-Good update; made 'help'
+component work (easy), started looking at the 'dashboard' component. Going down
+a rabbit hole, have *possibly* fixed the common table components but can't be
+sure because other elements are still breaking.
 
 ---
 
