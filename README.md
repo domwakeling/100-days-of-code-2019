@@ -543,6 +543,23 @@ sure because other elements are still breaking.
 **Today's Progress:** Continue working on League-For-Good Update (still fixing
 the 'Dashboard' and at quite an early stage) plus update to LSERSA website.
 
+## Day 92: 7 June, 2019
+
+**Today's Progress:** Started looking at how to automate production of secondary-timing
+labels by processing output from 'SkiPro' in Excel (using VBA).
+
+## Day 93: 8 June, 2019
+
+**Today's Progress:** Update to Bowles site for LSERSA race, continue working on
+secondary-timing labels for Club National races.
+
+
+## Day 94: 9 June, 2019
+
+**Today's Progress:** Updated Bowles website. Finish automating production
+of secondary-timing labels for Club National races. Update scoring for GHSA
+(Excel VBA).
+
 ---
 
 **Footnotes**
