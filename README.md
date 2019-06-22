@@ -553,12 +553,35 @@ labels by processing output from 'SkiPro' in Excel (using VBA).
 **Today's Progress:** Update to Bowles site for LSERSA race, continue working on
 secondary-timing labels for Club National races.
 
-
 ## Day 94: 9 June, 2019
 
 **Today's Progress:** Updated Bowles website. Finish automating production
 of secondary-timing labels for Club National races. Update scoring for GHSA
 (Excel VBA).
+
+## Day 95: 12 June, 2019
+
+**Today's Progress:** More tweaks to secondary-timing automation.
+
+## Day 96: 16 June, 2019
+
+**Today's Progress:** Update to Bowles site for Club National races.
+
+## Day 97: 20 June, 2019
+
+**Today's Progress:** Return to looking at updating Material-UI update in the
+League-for-Good app. Got login screen working.
+
+## Day 98: 21 June, 2019
+
+**Today's Progress:** Good progress in re-implementing Material-UI (jumping from
+v0.20.x to v 4.0.x). Have the main table view working, although numerous error
+messages showing up in console and lots of functionality is still broken.
+
+## Day 99: 22 June, 2019
+
+**Today's Progress:** Continuing to re-implement Material-UI in Leage-for-Good.
+
 
 ---
 
