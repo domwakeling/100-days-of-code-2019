@@ -580,8 +580,14 @@ messages showing up in console and lots of functionality is still broken.
 
 ## Day 99: 22 June, 2019
 
-**Today's Progress:** Continuing to re-implement Material-UI in Leage-for-Good.
+**Today's Progress:** Continuing to re-implement Material-UI in League-for-Good.
 
+## Day 100: 23 June, 2019
+
+**Today's Progress:** Continuing to re-implement Material-UI in League-for-Good.
+Have the base table template **almost** working properly again (need to add a 
+filter on archived status). Also: **finally finished 100 days** (albeit it took
+148 days to do so!)
 
 ---
 
